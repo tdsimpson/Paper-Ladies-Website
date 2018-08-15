@@ -1,2 +1,2 @@
 # Paper-Ladies-Website
-A website made for Kingston Band Paper Ladies
+A website made indie rock band "Paper Ladies"
